@@ -1,4 +1,3 @@
-
 # Assignment 5 - Part A
 
 - Author: Vinit Harsora
